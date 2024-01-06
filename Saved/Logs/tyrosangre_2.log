@@ -1932,3 +1932,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.06-17.12.59:668][621]LogSlate: Window 'Plugins' being destroyed
 [2024.01.06-17.12.59:672][621]LogSlate: Window 'Plugins' being destroyed
 [2024.01.06-17.12.59:672][621]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.01.06-17.19.14:092][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.06-17.19.14:098][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.06-17.19.14:155][243]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WF/PQNGNDR8DIG2TB3JYJTWKE
+[2024.01.06-17.19.14:156][243]LogSavePackage: Moving '../../../../tyrosangre/tyrosangre/Saved/PQNGNDR8DIG2TB3JYJTWKE6D34A66547E63C1F5C8444BA3DBE5D51.tmp' to '../../../../tyrosangre/tyrosangre/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WF/PQNGNDR8DIG2TB3JYJTWKE.uasset'
+[2024.01.06-17.19.14:161][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trigger_component" FILE="../../../../tyrosangre/tyrosangre/Content/trigger_component.uasset" SILENT=true
+[2024.01.06-17.19.14:164][243]LogSavePackage: Moving output files for package: /Game/trigger_component
+[2024.01.06-17.19.14:164][243]LogSavePackage: Moving '../../../../tyrosangre/tyrosangre/Saved/trigger_component6843404F4AE858AC3A335A9CB0813894.tmp' to '../../../../tyrosangre/tyrosangre/Content/trigger_component.uasset'
+[2024.01.06-17.19.14:181][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 881 ms)
+[2024.01.06-17.19.14:186][243]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.06-17.19.14:186][243]LogContentValidation: Display: Validating /Script/Engine.TriggerBox /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TriggerBox_UAID_4CCC6AFAAB56FACC01_1566264587
+[2024.01.06-17.19.14:186][243]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/trigger_component.trigger_component
+[2024.01.06-17.19.23:185][934]LogAutomationController: Ignoring very large delta of 2.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.06-17.19.34:472][925]LogAutomationController: Ignoring very large delta of 2.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
