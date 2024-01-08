@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/OnuX/Documents/Unreal Projects/tyrosangre/tyrosangre/Content/Characters/Mannequins/Animations/NewMaterial.uasset",
+				"C:/Users/OnuX/Documents/Unreal Projects/tyrosangre/tyrosangre/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/tyrosangre/tyrosangre/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/tyrosangre/tyrosangre/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
 				"D:/tyrosangre/tyrosangre/Content/ThirdPerson/Input/IMC_Default.uasset",
