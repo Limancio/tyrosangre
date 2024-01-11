@@ -1,0 +1,8 @@
+2024/01/10-12:52:15.104 561c Reusing MANIFEST D:/tyrosangre/tyrosangre/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-12:52:15.104 561c Recovering log #7
+2024/01/10-12:52:15.105 561c Reusing old log D:/tyrosangre/tyrosangre/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/01/10-12:54:08.624 3a8 Level-0 table #12: started
+2024/01/10-12:54:08.624 3a8 Level-0 table #12: 0 bytes OK
+2024/01/10-12:54:08.656 3a8 Delete type=0 #7
+2024/01/10-12:54:08.671 3a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/10-12:54:08.671 3a8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
